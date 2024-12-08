@@ -95,6 +95,15 @@
     color: var(--texto-escuro);
   }
   
+  .figure-container{
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .figure-container figure img{
+    width: 400px;
+  }
+
   .carrossel {
     position: relative;
     width: 100%;
